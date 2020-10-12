@@ -1,0 +1,6 @@
+Patient,Error
+ID00426637202313170790466,The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. GDCM)
+ID00426637202313170790466,'FileDataset' object has no attribute 'ImagePositionPatient'
+ID00426637202313170790466,The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. GDCM)
+ID00426637202313170790466,'FileDataset' object has no attribute 'ImagePositionPatient'
+ID00426637202313170790466,'FileDataset' object has no attribute 'ImagePositionPatient'
