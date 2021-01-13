@@ -1,6 +1,6 @@
-Patient,Error
-ID00426637202313170790466,The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. GDCM)
-ID00426637202313170790466,'FileDataset' object has no attribute 'ImagePositionPatient'
-ID00426637202313170790466,The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. GDCM)
-ID00426637202313170790466,'FileDataset' object has no attribute 'ImagePositionPatient'
-ID00426637202313170790466,'FileDataset' object has no attribute 'ImagePositionPatient'
+,Patient,Error
+0,ID00011637202177653955184,"The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. ), pylibjpeg (req. )"
+1,ID00026637202179561894768,'FileDataset' object has no attribute 'ImagePositionPatient'
+2,ID00052637202186188008618,"The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. ), pylibjpeg (req. )"
+3,ID00128637202219474716089,'FileDataset' object has no attribute 'ImagePositionPatient'
+4,ID00132637202222178761324,'FileDataset' object has no attribute 'ImagePositionPatient'

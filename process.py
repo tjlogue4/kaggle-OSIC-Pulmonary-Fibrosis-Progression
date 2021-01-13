@@ -12,11 +12,11 @@ cpu_count = mp.cpu_count() #gets the number of cores your machine has
 
 NEW_SIZE = 512
 
-DATA_DIR = 'F:/OISC/osic-pulmonary-fibrosis-progression/train/'
+DATA_DIR = 'X:/OISC/osic-pulmonary-fibrosis-progression/train/'
 SAVE_DIR = 'C:/temp/processed_files/'
 PATIENTS = os.listdir(DATA_DIR)
 
-df_train = pd.read_csv('F:/OISC/osic-pulmonary-fibrosis-progression/train.csv')
+df_train = pd.read_csv('X:/OISC/osic-pulmonary-fibrosis-progression/train.csv')
 
 p_amount = len(PATIENTS)
 
